@@ -83,7 +83,7 @@ function Home() {
 								href=""
 								className="px-3 py-1 mx-3 text-white text-lg font-semibold bg-[#6986C2] rounded-3xl hover:bg-[#031842] focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800"
 							>
-								UI/UX Design
+								Web Programmer
 							</a>
 							<a
 								href=""
