@@ -105,7 +105,7 @@ function RegisterPage() {
 						<div className="mt-2 dark:text-white items-center flex">
 							Have an account?
 							<Link to={'/login'}>
-								<p className="text-blue-500 ml-1 hover:text-blue-700 font-semibold">Log in</p>
+								<p className="text-blue-500 ml-1 hover:text-blue-700 font-semibold">Sign In</p>
 							</Link>
 						</div>
 					</div>
